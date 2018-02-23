@@ -2,15 +2,15 @@
 #include<conio.h>
 int main()
 {
-int a;
-scanf("%d",&a);
-if(a%2==0)
+int b;
+scanf("%d",&b);
+if(b%2==0)
 {
-printf("even");
+printf(" number is even");
 }
 else
 {
-printf("odd");
+printf("number id odd");
 }
 return 0;
 }
