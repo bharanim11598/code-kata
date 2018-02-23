@@ -2,8 +2,8 @@ x=input()
 y=input()
 z=input()
 if (x>y and x>z):
-  print("x is greater")
+  print(x)
 elif(y>x and y>z):
-  print("y is greater")
+  print(y)
 else:
- print("z is greater")
+ print(z)
