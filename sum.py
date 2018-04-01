@@ -1,5 +1,5 @@
 print("the num is")
-N=input()
+N=int(input())
 sum=0
 while(N>0):
     sum=sum+N
