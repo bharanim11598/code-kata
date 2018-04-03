@@ -1,2 +1,2 @@
 j=str(input())
-print(j)
+print(j+';')
