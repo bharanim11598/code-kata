@@ -1,3 +1,5 @@
 n=input()
+op=""
 for c in n:
-  print(c)
+  op=op+' '+c
+print(op)
